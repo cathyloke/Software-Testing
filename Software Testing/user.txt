@@ -1,0 +1,4 @@
+Weng Yan|VIP
+Le Yun|Normal
+Jia Zheng|Non-member
+Hui Hui|Normal

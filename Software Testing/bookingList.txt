@@ -1,0 +1,8 @@
+Weng Yan|0|1|0
+Jia Zheng|1|1|0
+Le Yun|1|0|0
+Hui Hui|1|0|1
+Joely|1|1|0
+Cathy|1|0|1
+Zorian|2|0|0
+Bob|0|0|1
